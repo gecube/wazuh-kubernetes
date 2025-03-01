@@ -9,7 +9,7 @@ Deploy a Wazuh cluster with a basic indexer and dashboard stack on Kubernetes.
 
 ## Branches
 
-* `master` branch contains the latest code, be aware of possible bugs on this branch.
+* `main` branch contains the latest code, be aware of possible bugs on this branch.
 * `stable` branch on correspond to the last Wazuh stable version.
 
 
@@ -47,7 +47,7 @@ To deploy a cluster on your local environment (like Minikube, Kind or Microk8s) 
     ├── local-environment.md
     ├── README.md
     ├── upgrade.md
-    ├── VERSION
+    ├── VERSION.json
     └── wazuh
         ├── base
         │   ├── storage-class.yaml

@@ -6,13 +6,79 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Update to Wazuh version [5.0.0](https://github.com/wazuh/wazuh/blob/v5.0.0/CHANGELOG.md#v500)
+- New PR Checks ([#896](https://github.com/wazuh/wazuh-kubernetes/pull/896)) \- (Kubernetes workflow Test)
+
+### Changed
+
+- None
+
+### Fixed
+
+- None
+
+### Deleted
+
+- None
+
+## [4.10.2]
+
+### Added
+
+- None
+
+### Changed
+
+- None
+
+### Fixed
+
+- None
+
+### Deleted
+
+- None
+
+## [4.10.1]
+
+### Added
+
+- None
+
+### Changed
+
+- None
+
+### Fixed
+
+- None
+
+### Deleted
+
+- None
 
 ## [4.10.0]
 
 ### Added
 
-- Update to Wazuh version [4.10.0](https://github.com/wazuh/wazuh/blob/v4.10.0/CHANGELOG.md#v4100)
+- None
+
+### Changed
+
+- None
+
+### Fixed
+
+- Add labelSelector ([#872](https://github.com/wazuh/wazuh-kubernetes/pull/872)) \- (Wazuh worker STS)
+
+### Deleted
+
+- None
+
+## [4.9.2]
+
+### Added
+
+- Update to Wazuh version [4.9.2](https://github.com/wazuh/wazuh/blob/v4.9.2/CHANGELOG.md#v492)
 
 ## [4.9.1]
 
